@@ -24,6 +24,8 @@
 
 - calling callback functions one after another
 
-### promise
+### promise -> to handle async result
 
 - promise is used to avoid callback hell
+- resolved -> if execution is successful
+- rejected -> if execution is unsuccessful
