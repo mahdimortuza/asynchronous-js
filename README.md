@@ -19,3 +19,11 @@
 
 - compares call stack and callback que
 - it runs when call stack is empty and something in call back que
+
+## callback hell
+
+- calling callback functions one after another
+
+### promise
+
+- promise is used to avoid callback hell
